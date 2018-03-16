@@ -1,0 +1,161 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+.header {
+  width: 100%;
+  padding: 28px 19px 26px 19px;
+  box-sizing: border-box;
+  height: 70px;
+
+}
+.logo {
+  background: url(../images/logo.png) no-repeat;
+  background-size: contain;
+  height: 16px;
+  width: 80px;
+  display: inline-block;
+  float: left;
+}
+
+.menu {
+  padding-left: 452px;
+  display: inline-block;
+
+}
+.nav {
+  display: inline-block;
+
+}
+.nav > li > a {
+  text-decoration: none;
+  color: #555555;
+
+}
+
+.nav > li {
+  font-size: 14px;
+  text-align: center;
+  float: left;
+  padding-right: 15px;
+}
+
+.account {
+  float: right;
+}
+
+.profile {
+  background-color: black;
+  display: inline-block;
+  height: 32px;
+  width: 32px;
+  border-radius: 32px;
+  float: right;
+  margin-top: -8px;
+}
+
+.plus {
+  background-image: url(../images/plus.png);
+  color: #C5C5C5;
+  display: inline-block;
+  float: right;
+  height: 16px;
+  width: 16px;
+  margin-right: 10px;
+}
+
+.container.narrow {
+  width: 1201px;
+  height: 1218px;
+  margin: 0 auto;
+}
+
+.grid-container {
+  display: inline-grid;
+  grid-column-gap: 32px;
+  grid-row-gap: 32px;
+  grid-template-columns: 276px 276px 276px 277px;
+}
+.info {
+  margin-top: 10px;
+}
+.dp {
+  float: left;
+  height: 18px;
+  width: 18px;
+  border-radius: 18px;
+  background-color: #8c8c8c;
+}
+.name {
+  float: left;
+  color: #555555;
+  font-size: 14px;
+  margin-top: 2px;
+  font-weight: 300;
+  margin-left: 8px;
+}
+.shares {
+  float: right;
+  color: #999999;
+  font-size: 13px;
+  padding-right: 10px;
+  margin-top: 2px;
+}
+.likes {
+  float: right;
+  color: #999999;
+  font-size: 13px;
+  margin-top: 2px;
+}
+.grid-item1 {
+  background-color: #FAEBD7;
+  height:325px;
+}
+
+.grid-item2 {
+  background-color: #FAEBD7;
+  height:184px;
+}
+
+.grid-item3 {
+  background-color: #FAEBD7;
+  height:220px;
+}
+
+.grid-item4 {
+    background-color: #FAEBD7;
+    height:276px;
+}
+.grid-item5 {
+    background-color: #FAEBD7;
+    height:214px;
+}
+.grid-item6 {
+    background-color: #FAEBD7;
+    height:420px;
+}
+.grid-item7 {
+    background-color: #FAEBD7;
+    height:207px;
+}
+.grid-item8 {
+    background-color: #FAEBD7;
+    height:470px;
+}
+.grid-item9 {
+    background-color: #FAEBD7;
+    height:413px;
+}
+.grid-item10 {
+    background-color: #FAEBD7;
+    height:275px;
+}
+.grid-item11 {
+    background-color: #FAEBD7;
+    height:410px;
+}
+.grid-item12 {
+    background-color: #FAEBD7;
+    height:182px;
+}
