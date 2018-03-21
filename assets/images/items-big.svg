@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Items</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Post" transform="translate(-422.000000, -584.000000)" fill="#888888">
+            <g id="Content" transform="translate(370.000000, 105.000000)">
+                <g id="Main">
+                    <g id="Images-+-Meta">
+                        <g id="Meta" transform="translate(0.000000, 468.000000)">
+                            <g id="Stats" transform="translate(0.000000, 8.000000)">
+                                <g id="Items" transform="translate(52.000000, 0.000000)">
+                                    <path d="M7.99985715,16.0000179 L2.23221014,13.0000714 L0,13.0000714 L7.99985715,17 L15.9997143,13.0000714 L13.7675042,13.0000714 L7.99985715,16.0000179 L7.99985715,16.0000179 Z M7.99985715,3.99773218 L13.99975,6.88743058 L7.99985715,10.000125 L1.99996429,6.88743058 L7.99985715,3.99773218 L7.99985715,3.99773218 Z M15.9997143,7.00017857 L7.99985715,3 L0,7.00017857 L7.99985715,11.0001071 L15.9997143,7.00017857 L15.9997143,7.00017857 Z M7.99985715,13.0000714 L2.23221014,10.000125 L0,10.000125 L7.99985715,14.0000536 L15.9997143,10.000125 L13.7675042,10.000125 L7.99985715,13.0000714 L7.99985715,13.0000714 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

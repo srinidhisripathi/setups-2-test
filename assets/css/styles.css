@@ -237,3 +237,113 @@ body {
   padding-top: 23px;
   text-align: center;
 }
+
+.post-container {
+  width: 702px;
+  height: 1005px;
+  margin: 0 auto;
+}
+
+.image {
+  display: block;
+  background-color: #BFBFBF;
+  height: 456px;
+  width: 700px;
+  margin-top: 36px;
+}
+.info2 {
+  height: 34px;
+  width: 700px;
+  margin: 12px auto 0 auto;
+  overflow: hidden;
+  padding-bottom: 12.5px;
+  border-bottom: 1px solid #E8EAEF;
+}
+
+.info2 > ul > li {
+  float: left;
+  font-size: 15px;
+  color: #555555;
+  font-weight: 100;
+  padding-right: 20px;
+  margin-top: 8px;
+}
+
+.like {
+  float: right;
+}
+
+.share {
+  float: right;
+  padding: 8px 9px 9px 8px;
+  box-sizing: border-box;
+  display: block;
+  height: 32px;
+  width: 32px;
+  border: 1px solid #CECECE;
+  border-radius: 3px;
+}
+
+.like {
+  float: right;
+  padding: 8px 9px 9px 8px;
+  box-sizing: border-box;
+  display: block;
+  height: 32px;
+  width: 72px;
+  background-color: #3366FF;
+  color: white;
+  font-size: 14px;
+  border-radius: 3px;
+  margin-right: 12px;
+}
+
+.post-dp {
+  display: block;
+  background-color: #EFEFEF;
+  height: 70px;
+  width: 70px;
+  border: 10px solid white;
+  border-radius: 70px;
+  margin: -30.5px auto 0 auto;
+}
+
+.owner {
+  text-align: center;
+  font-size: 18px;
+  color: #555555;
+  font-weight: 200;
+  margin-top: 5px;
+}
+.designation {
+  font-size: 14px;
+  color: #555555;
+  text-align: center;
+  font-weight: 200;
+  line-height: 1.5;
+  margin-bottom: 32px;
+}
+
+.post-container.narrow {
+  width: 563px;
+  height: 363px;
+  margin: 0 auto;
+}
+
+.main {
+  color: #555555;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.5;
+  margin-bottom: 29px;
+}
+
+.macbook {
+  background-color: #34BF49;
+  padding: 8px 9px 9px 8px;
+  box-sizing: border-box;
+  display: block;
+  height: 32px;
+  width: 32px;
+  border-radius: 3px;
+}
